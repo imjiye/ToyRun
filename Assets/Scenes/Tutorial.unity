@@ -951,7 +951,7 @@ GameObject:
   - component: {fileID: 286778651}
   - component: {fileID: 286778650}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1009,10 +1009,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC2A4\uD14C\uC774\uC9C0\uB97C \uC120\uD0DD\uD558\uACE0 \uB098\uBA74 \uAC8C\uC784\uC774
-    \uC2DC\uC791\uD574!\n\n\uC6B0\uB9AC\uAC00 \uD560 \uAC8C\uC784\uC740 \uC7A5\uC560\uBB3C\uC744
-    \uD53C\uD558\uACE0\n\n\uCF54\uC778\uACFC \uACFC\uC77C, \uC544\uC774\uD15C\uB4E4\uC744
-    \uBA39\uC73C\uBA74 \uB41C\uB294 \uAC04\uB2E8\uD55C \uAC8C\uC784\uC774\uC57C"
+  m_Text: 
 --- !u!222 &286778651
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1949,7 +1946,7 @@ GameObject:
   - component: {fileID: 463843809}
   - component: {fileID: 463843808}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2007,8 +2004,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC5EC\uAE30\uAE4C\uC9C0\uAC00 \uAC8C\uC784\uC5D0 \uB300\uD55C \uC124\uBA85\uC774\uC57C!\n\n\uC774\uC81C
-    \uC9C4\uC9DC\uB85C \uBAA8\uD5D8\uC744 \uB5A0\uB098\uBCFC\uAE4C?"
+  m_Text: 
 --- !u!222 &463843809
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2733,7 +2729,7 @@ GameObject:
   - component: {fileID: 702093214}
   - component: {fileID: 702093213}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2791,11 +2787,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC67C\uCABD\uC5D0\uB294 \uAC8C\uC784\uC744 \uD558\uBA74\uC11C \uD68D\uB4DD\uD55C
-    \uCF54\uC778\uC744 \uD655\uC778\uD560 \uC218 \uC788\uC5B4!\n\n\uCCB4\uB825\uBC14
-    \uBC11\uC5D0\uB294 \uB108\uAC00 \uC5BB\uC740 \uC810\uC218\uB3C4 \uACC4\uC18D
-    \uD655\uC778\uD560 \uC218 \uC788\uC73C\uB2C8\uAE4C\n\n\uC5F4\uC2EC\uD788 \uB2EC\uB9AC\uBA74\uC11C
-    \uCD5C\uACE0\uC810\uC218\uB97C \uC5BB\uB3C4\uB85D \uD798\uB0B4~"
+  m_Text: 
 --- !u!222 &702093214
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3733,7 +3725,7 @@ GameObject:
   - component: {fileID: 935821484}
   - component: {fileID: 935821483}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3791,10 +3783,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uCCB4\uB825\uC774 \uB2E4 \uC904\uC5B4\uB4E4\uC5B4\uB3C4 \uAC8C\uC784\uC624\uBC84\uC9C0\uB9CC\n\n\uAD6C\uBA4D\uC73C\uB85C
-    \uB5A8\uC5B4\uC9C0\uBA74 \uC989\uC2DC \uAC8C\uC784\uC624\uBC84\uAC00 \uB418\uB2C8\uAE4C\n\n\uAD6C\uBA4D\uC5D0
-    \uB5A8\uC5B4\uC9C0\uC9C0 \uC54A\uB3C4\uB85D \uC8FC\uC758\uD574\uC11C \uAC8C\uC784\uD574\uC57C
-    \uD574!"
+  m_Text: 
 --- !u!222 &935821484
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5300,6 +5289,58 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1448585129}
   m_CullTransparentMesh: 1
+--- !u!1 &1486449374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1486449376}
+  - component: {fileID: 1486449375}
+  m_Layer: 0
+  m_Name: TextManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1486449375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486449374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91c2773cc15e91c499f0d618767ad003, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: {fileID: 1631854610}
+  text2: {fileID: 286778650}
+  text3: {fileID: 1867014466}
+  text4: {fileID: 702093213}
+  text5: {fileID: 935821483}
+  text6: {fileID: 1503494904}
+  text7: {fileID: 1872662382}
+  text8: {fileID: 463843808}
+--- !u!4 &1486449376
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486449374}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1191.6218, y: 563.7988, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1502427457
 GameObject:
   m_ObjectHideFlags: 0
@@ -5396,7 +5437,7 @@ GameObject:
   - component: {fileID: 1503494905}
   - component: {fileID: 1503494904}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5454,10 +5495,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC2A4\uD14C\uC774\uC9C0\uC5D0 \uB530\uB77C \uC7A5\uC560\uBB3C\uC774 \uC870\uAE08\uC529
-    \uB2EC\uB77C\n\n\uC67C\uCABD\uBD80\uD130 Stage1, Stage2, Stage3\uC758 \uC7A5\uC560\uBB3C\uC774\uC57C\n\n\uAC8C\uC784\uC744
-    \uC2DC\uC791\uD558\uAC8C \uB418\uBA74 \uC774\uAC83\uB4E4\uC744 \uC810\uD504\uB85C
-    \uC798 \uD53C\uD558\uBA74 \uB3FC!"
+  m_Text: 
 --- !u!222 &1503494905
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5643,7 +5681,7 @@ GameObject:
   - component: {fileID: 1631854611}
   - component: {fileID: 1631854610}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5701,7 +5739,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uAC8C\uC784 \uC124\uBA85\uC744 \uB4E4\uC5B4\uBCFC\uB798?"
+  m_Text: 
 --- !u!222 &1631854611
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6431,7 +6469,7 @@ GameObject:
   - component: {fileID: 1867014467}
   - component: {fileID: 1867014466}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6489,10 +6527,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC774\uAC74 \uCCB4\uB825\uBC14\uC57C\n\n\uC2DC\uAC04\uC774 \uC9C0\uB0A0\uC218\uB85D
-    \uC904\uC5B4\uB4E4\uACE0, \uC7A5\uC560\uBB3C\uC5D0 \uBD80\uB52A\uCCD0\uB3C4 \uC904\uC5B4\uB4E4\uC5B4!\n\n\uB2E4
-    \uC904\uC5B4\uB4E4\uAC8C \uB418\uBA74 \uAC8C\uC784 \uC624\uBC84\uAC00 \uB418\uB2C8\uAE4C\n\n\uC0DD\uBA85\uBB3C\uC57D\uC744
-    \uBA39\uC73C\uBA74\uC11C \uC0B4\uC544\uB0A8\uC544\uC57C \uD574!!"
+  m_Text: 
 --- !u!222 &1867014467
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6513,7 +6548,7 @@ GameObject:
   - component: {fileID: 1872662383}
   - component: {fileID: 1872662382}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Text (Legacy)7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6571,14 +6606,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uBE68\uAC04 \uBC15\uC2A4\uC548\uC5D0 \uC788\uB294 \uAC74 \uC810\uC218
-    \uC544\uC774\uD15C\uC774\uC57C! \n\uC67C\uCABD\uBD80\uD130 \uAC01\uAC01 Stage1,
-    2, 3\uC5D0\uC11C \uBCFC \uC218 \uC788\uC5B4\r\n\r\n\uB178\uB780 \uBC15\uC2A4
-    \uC548\uC5D0 \uC788\uB294 \uAC74 \uCF54\uC778 \uC544\uC774\uD15C\uC774\uC57C!\r\r\n\uC67C\uCABD\uBD80\uD130
-    10\uCF54\uC778, 50\uCF54\uC778, 100\uCF54\uC778\uC744 \uC5BB\uC744 \uC218 \uC788\uC5B4\r\n\r\n\uD30C\uB780
-    \uBC15\uC2A4 \uC548\uC5D0 \uC788\uB294 \uAC74 \uC0DD\uBA85 \uBB3C\uC57D\uC774\uC57C!\r\r\n\uC800\uAC78
-    \uBA39\uC73C\uBA74 \uCCB4\uB825\uC744 \uCC44\uC6CC\uC8FC\uB2C8\uAE4C \uB2EC\uB9AC\uBA74\uC11C
-    \uAF2D\uAF2D \uC798 \uCC59\uACA8 \uBA39\uC5B4\uC57C \uD574!!"
+  m_Text: 
 --- !u!222 &1872662383
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7289,3 +7317,4 @@ SceneRoots:
   - {fileID: 376024495}
   - {fileID: 110781242}
   - {fileID: 245592571}
+  - {fileID: 1486449376}
